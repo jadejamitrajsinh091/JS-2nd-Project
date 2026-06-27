@@ -12,7 +12,7 @@ A collection of beginner-friendly JavaScript projects built to practice programm
 | 4 | Prime Number Checker | <a href="https://codepen.io/Mitrajsinh-Jadeja/pen/YPNxpqP" target="_blank">Open Project</a> |
 
 <h3>Self Video</h3>
-<a href = "https://drive.google.com/file/d/1HuIexbeuoP1JF_K80PgnTSjrVN8fTB4o/view?usp=sharing">VIDEO LINK</a>
+<a href = "https:/drivegoogle.com/file/d/1HuIexbeuoP1JF_K80PgnTSjrVN8fTB4o/view?usp=sharing">VIDEO LINK</a>
 
 ## 🛠️ Technologies Used
 
